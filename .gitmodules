@@ -1,3 +1,6 @@
 [submodule "Mjb_store"]
 	path = Mjb_store
 	url = git@github.com:AraMinjibir/Mjb_Store.git
+[submodule "login-sign-up"]
+	path = login-sign-up
+	url = git@github.com:AraMinjibir/login-sign-up.git
