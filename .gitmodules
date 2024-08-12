@@ -4,3 +4,6 @@
 [submodule "login-sign-up"]
 	path = login-sign-up
 	url = git@github.com:AraMinjibir/login-sign-up.git
+[submodule "registration-form"]
+	path = registration-form
+	url = git@github.com:AraMinjibir/registration-form.git
