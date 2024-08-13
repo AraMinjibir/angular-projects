@@ -7,3 +7,6 @@
 [submodule "registration-form"]
 	path = registration-form
 	url = git@github.com:AraMinjibir/registration-form.git
+[submodule "task-traker"]
+	path = task-traker
+	url = git@github.com:AraMinjibir/task-traker.git
